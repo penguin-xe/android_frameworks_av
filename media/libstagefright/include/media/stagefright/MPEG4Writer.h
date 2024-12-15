@@ -29,8 +29,6 @@
 #include <mutex>
 #include <queue>
 
-constexpr char *MEDIA_MIMETYPE_VIDEO_MVHEVC = "video/x-mvhevc";
-
 namespace android {
 
 struct AMessage;
